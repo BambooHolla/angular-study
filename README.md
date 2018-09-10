@@ -1,4 +1,5 @@
-# angular从0初学
+# angular
+# 指令(https://www.cnblogs.com/shawWey/p/7846590.html)
 
 > by 2018-08-29
 * 主要创建项目，以及简单的修改
@@ -14,3 +15,7 @@
 * 使用serve ng generate service name
 * 依赖注入
 * rxjs的使用，of,Observable,subscribe
+
+> by 2018-09-10
+* 注册服务ng generate module module-name --flat --module=app </b> --flat 把这个文件放进了 src/app 中，而不是单独的目录中。--module=app 告诉 CLI 把它注册到 AppModule 的 imports 数组中。
+* 主要了解路由的使用，以及模块跟路由的配合
