@@ -19,3 +19,7 @@
 > by 2018-09-10
 * 注册服务ng generate module module-name --flat --module=app </b> --flat 把这个文件放进了 src/app 中，而不是单独的目录中。--module=app 告诉 CLI 把它注册到 AppModule 的 imports 数组中。
 * 主要了解路由的使用，以及模块跟路由的配合
+
+> by 2018-09-11
+* http的使用
+* 一些rxjs的使用
